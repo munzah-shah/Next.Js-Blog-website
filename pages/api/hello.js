@@ -1,0 +1,5 @@
+function handler(req, res) {
+  res.status(200).json({ text: "Hi Munzah!" });
+}
+
+export default handler;

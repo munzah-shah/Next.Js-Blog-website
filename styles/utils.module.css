@@ -1,0 +1,95 @@
+.heading2Xl {
+  font-size: 2.5rem;
+  line-height: 1.2;
+  font-weight: 800;
+  letter-spacing: -0.05rem;
+  margin: 1rem 0;
+}
+
+.headingXl {
+  font-size: 2rem;
+  line-height: 1.3;
+  font-weight: 600;
+  letter-spacing: 0.05rem;
+  margin: 1rem 0;
+}
+
+.headingLg {
+  font-size: 1.5rem;
+  line-height: 1.4;
+  margin: 1rem 0;
+}
+
+.headingMd {
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+
+.headingNm {
+  font-size: 1rem;
+  margin-top: -1.1rem;
+  font-weight: 300;
+}
+
+.headingSm {
+  font-size: 0.9rem;
+  font-weight: 100;
+}
+
+.paraText {
+  font-size: 0.95rem;
+}
+
+.borderCircle {
+  border-radius: 9999px;
+}
+
+.colorInherit {
+  color: inherit;
+}
+
+.padding1px {
+  padding-top: 1px;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.listItem {
+  margin: 0 0 1.25rem;
+  font-size: 1.1rem;
+}
+
+.lightText {
+  color: rgb(161, 161, 161);
+}
+
+.centeredText {
+  text-align: center;
+}
+
+.pinkText {
+  color: #ff3090;
+}
+
+.whiteText {
+  color: rgb(226, 226, 226);
+}
+
+.displayFlex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.justifiedText {
+  text-align: justify;
+}
+
+.clearSpace {
+  padding: 0;
+  margin: 0;
+}
