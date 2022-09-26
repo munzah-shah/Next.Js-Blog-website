@@ -22,13 +22,21 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.paraText}>
         <p>
-          Hey, Moza here. Insert some good text about yourself. Moza here.
-          Insert some good text about yourself. Moza here. Insert some good text
-          about yourself. Moza here. Insert some good text about yourself. Moza
-          here. Insert some good text about yourself. Moza here. Insert some
-          good text about yourself.Moza here. Insert some good text about
-          yourself. Moza here. Insert some good text about yourself. Moza here.
-          Insert some good text about yourself.
+          Hey! Munzah here, a Computer Systems Engineer from Mirpur Khas, Sindh,
+          Pakistan.
+          <br />
+          <br />I have worked as a freelancer with a diverse range of people for
+          almost half a year, before joining this amazing company "Teamo". You
+          can read more about my professional experiences{" "}
+          <a href="https://www.linkedin.com/in/munzah-shah/" target="_blank">
+            here
+          </a>
+          .<br />
+          <br />
+          Apart from studies and work, I love to play table tennis, discover new
+          playlists on Spotify, watch Psychological Thrillers, and capture
+          nature. I like to pen down the concepts I learn in my field. Posting
+          all my concepts here in a blog, hope you like my notes!
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>

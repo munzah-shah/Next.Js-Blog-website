@@ -1,7 +1,7 @@
 ---
 title: "Why Should We Use React?"
 date: "2022-09-27"
-category: "Technology/React.Js"
+category: "Tech/Libraries/React.Js"
 ---
 
 React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. But why should we even use **React**?

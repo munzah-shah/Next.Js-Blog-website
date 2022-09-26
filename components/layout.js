@@ -6,9 +6,9 @@ import Link from "next/link";
 
 const name = "Munzah Shah";
 const description = "Software Engineer @ Teamo";
-const linkedinProfile = "https://www.linkedin.com/munzah-shah";
-const facebookProfile = "https://www.linkedin.com/munzah-shah";
-const githubProfile = "https://www.linkedin.com/munzah-shah";
+const linkedinProfile = "https://www.linkedin.com/in/munzah-shah/";
+const facebookProfile = "https://web.facebook.com/munzah.shah.18?_rdc=1&_rdr";
+const githubProfile = "https://github.com/munzah-shah";
 export const siteTitle = "Munzah's Blog";
 
 function Layout({ children, home }) {
@@ -39,7 +39,7 @@ function Layout({ children, home }) {
             </legend>
             <Image
               priority
-              src="/images/profile.jpg"
+              src="/images/profile.png"
               className={utilStyles.borderCircle}
               height={90}
               width={90}
@@ -58,7 +58,7 @@ function Layout({ children, home }) {
               <a>
                 <Image
                   priority
-                  src="/images/profile.jpg"
+                  src="/images/profile.png"
                   className={utilStyles.borderCircle}
                   height={90}
                   width={90}
