@@ -39,7 +39,7 @@ function Layout({ children, home }) {
             </legend>
             <Image
               priority
-              src="/images/profile.png"
+              src="/images/profile-picture.png"
               className={utilStyles.borderCircle}
               height={90}
               width={90}
@@ -58,7 +58,7 @@ function Layout({ children, home }) {
               <a>
                 <Image
                   priority
-                  src="/images/profile.png"
+                  src="/images/profile-picture.png"
                   className={utilStyles.borderCircle}
                   height={90}
                   width={90}
